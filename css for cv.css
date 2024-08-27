@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(to right,rgb(255, 0, 0),rgb(90, 185, 83),rgb(204, 255, 0));
+    height: 50vh;
+}
+p{
+    color: rgb(19, 237, 19);
+}
+a{
+    color: blue;
+}
+hr{
+    color: aqua;
+    size: 5px;
+}
+h1{
+     font-style: italic;
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    font-style: italic;
+}
+h5{
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    font-style: italic;
+}
+h6{
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    font-style: italic;
+}
